@@ -1,6 +1,7 @@
 # /usr/bin/python
 
 # python program that builds a root window and then a child window widget. 
+# gui framework
 
 # import Tkinter lib
 from Tkinter import * 
