@@ -108,11 +108,11 @@ y = Button(mainmenu, text="Display", command = submenu)
 
 o = Button(mainmenu, text="Check Docker Status", command = listmenu)
 
-#app.grid()
+app.grid()
 
-#lbl1 = Label(app, text = "I am a Label 1")
-#lbl2 = Label(app, text = "I am a Label 2")
-#lbl3 = Label(app, text = "I am a Label 3")
+lbl1 = Label(app, text = "I am a Label 1")
+lbl2 = Label(app, text = "I am a Label 2")
+lbl3 = Label(app, text = "I am a Label 3")
 
 #lbl1.grid()
 #lbl2.grid()
