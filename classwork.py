@@ -1,5 +1,6 @@
 # python code building class code constructs 
-# code 
+# feb 17
+# updated 
 
 class MyClass(object):
 	def __init__(self, regular, oversub, doubleover):
